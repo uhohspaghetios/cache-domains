@@ -1,0 +1,2 @@
+mirror.clarkson.edu
+pkg.freebsd.org

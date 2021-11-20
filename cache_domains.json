@@ -126,6 +126,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "rgnet",
+			"description": "RGNet repositories",
+			"domain_files": ["rgnet.txt"]
 		}
 	]
 }
